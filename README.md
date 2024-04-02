@@ -35,7 +35,7 @@
   <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>  
 
-
+### My Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/441260395416780820)](https://discord.com/users/441260395416780820)
   
 </p>

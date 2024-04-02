@@ -30,6 +30,7 @@
 <p align="left">
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img align="center" src="https://img.shields.io/badge/Ubuntu-A81D33?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img align="center" src="https://img.shields.io/badge//Debian-14354C?style=for-the-badge&logo=debian&logoColor=white&labelColor=A81D33" alt="Debian" />
   <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" />
   <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>  

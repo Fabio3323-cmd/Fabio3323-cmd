@@ -6,7 +6,7 @@
 
 <p align="left">
   <p></p><img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
-  <img align="https://img.shields.io/badge/PyCord-14354C?style=for-the-badge&logo=python&logoColor=white&color=blue" alt=PyCord/></p>
+  <img align="center" src="https://img.shields.io/badge/PyCord-14354C?style=for-the-badge&logo=python&logoColor=white&color=blue" alt=PyCord/></p>
 
 </p>
 

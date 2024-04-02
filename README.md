@@ -15,6 +15,7 @@
 #### Databases:
  <p align="left">
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img align="center" src="https://img.shields.io/badge/MariaDB-14354C?style=for-the-badge&logo=mariadb&logoColor=white&color=1F305F" alt="MariaDB"/>
 </p>
 
 #### Frameworks:
